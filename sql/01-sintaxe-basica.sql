@@ -100,7 +100,7 @@ VALUES
 select user_id, role_id from users_roles where
 user_id = 1 and role_id = 1
 
--- Insere dados que foram selecionados o que foi selecionado
+-- Insere dados que foram selecionados e o que foi selecionado
 insert into users_roles (user_id, role_id)
 select id, (select id from roles order BY  rand() limit 1) as Permição from users; -- Seleciona IDs de users e seleciona de forma aleatória um valor da tabela roles
 
