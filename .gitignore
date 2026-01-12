@@ -1,2 +1,4 @@
 docker-compose.yml
 00-valores-para-banco.sql
+__pycache__/
+*.pyc
