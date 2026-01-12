@@ -30,6 +30,7 @@ Este Repositório é voltado para registrar meus estudos e a parte prática. Aqu
 ### Como Rodar os Testes
 
 Dentro do VsCode é possível utilizar a aba `Testing` que disponibiliza uma interface para gerenciar e visualizar o histórico de execução, permitindo rodar desde um único teste isolado até a suíte completa.
+
 ---
 ou no terminal acessando a pasta
 
