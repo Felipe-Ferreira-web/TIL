@@ -27,6 +27,10 @@ Este Repositório é voltado para registrar meus estudos e a parte prática. Aqu
 
 * **Unittest** - Unittest é um biblioteca padrão que permite orgazinar testes em classes e testar funções individualmente para analisar como performam através de dados que são recebidos e comparados com o resultado esperado. Se o resultado do teste não corresponde com o esperado, retornará uma flag. Isso é checado fornecendo o dado pronto para comparação e usando Assert para tratar se realmente está funcionando como esperado.
 
+#### Algoritmos
+
+* Exercícios e exemplos do livro [Entendendo Algoritmos](https://github.com/KAYOKG/BibliotecaDev/blob/main/LivrosDev/Entendendo%20Algoritmos%20-%20Um%20Guia%20Ilustrado%20Para%20Programadores%20e%20Outros%20Curiosos%20-%20Autor%20(Aditya%20Y.%20Bhargava).pdf) para prática e melhor compreensão.
+
 ### Como Rodar os Testes
 
 Dentro do VsCode é possível utilizar a aba `Testing` que disponibiliza uma interface para gerenciar e visualizar o histórico de execução, permitindo rodar desde um único teste isolado até a suíte completa.
